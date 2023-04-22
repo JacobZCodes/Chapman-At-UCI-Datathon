@@ -1,0 +1,10 @@
+Text modeling for reviews
+
+User charactersitics related to how they leave reviews
+
+Correlation between types of business and reviews left
+
+Open ended problem statement - we can pick
+
+Find target audience (setting, persona, set the scene, etc.) --- provides backdrop for presentation
+
